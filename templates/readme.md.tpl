@@ -1,18 +1,9 @@
 #### Recent Pull Requests
-{{range recentPullRequests 10}}
-Title: {{.Title}}
-URL: {{.URL}}
-State: {{.State}}
-CreatedAt: {{humanize .CreatedAt}}
-Repository name: {{.Repo.Name}}
-Repository description: {{.Repo.Description}}
-Repository URL: {{.Repo.URL}}
-{{end}}
+{{- range recentContributions 5 }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
+{{- end }}
 
 #### Recently Created
-{{range recentRepos 10}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}})
-Stars: {{.Stargazers}}
-{{end}}
+{{- range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
+{{- end }}
