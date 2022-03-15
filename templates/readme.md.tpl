@@ -1,6 +1,6 @@
 #### Recent Repos
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### Recently Created
