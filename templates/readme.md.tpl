@@ -1,9 +1,18 @@
-#### Recent Repositories created
-{{- range recentRepos 3 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
+#### Recent Pull Requests
+{{range recentPullRequests 10}}
+Title: {{.Title}}
+URL: {{.URL}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
+{{end}}
 
-#### Latest releases I've contributed to
-{{ range recentReleases 5 }}
-- [{{ .Name }}]({{ .URL }}) ([{{ .LastRelease.TagName }}]({{ .LastRelease.URL }}), {{ humanize .LastRelease.PublishedAt }}){{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
+#### Recently Created
+{{range recentRepos 10}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}})
+Stars: {{.Stargazers}}
+{{end}}
