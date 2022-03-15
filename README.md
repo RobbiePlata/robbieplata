@@ -1,10 +1,10 @@
 #### Recent Repos
 
-- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) - 
-- [RobbiePlata/robbieplata.com](https://github.com/RobbiePlata/robbieplata.com) - Website Re-work with Vite React
-- [RobbiePlata/react-boiler](https://github.com/RobbiePlata/react-boiler) - 
-- [RobbiePlata/NN-Notebooks](https://github.com/RobbiePlata/NN-Notebooks) - Study of Neural Network Theory and Architecture
-- [RobbiePlata/Harstem-Ticker](https://github.com/RobbiePlata/Harstem-Ticker) - Now public - React &#43; Redux &#43; ExpressJS themed livestream contribution tracker.
+- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (today)
+- [RobbiePlata/robbieplata.com](https://github.com/RobbiePlata/robbieplata.com) - Website Re-work with Vite React (4 days ago)
+- [RobbiePlata/react-boiler](https://github.com/RobbiePlata/react-boiler) -  (1 month ago)
+- [RobbiePlata/Discord-Starcraft-Rank-Bot](https://github.com/RobbiePlata/Discord-Starcraft-Rank-Bot) - Starcraft II MMR Bot for Discord (Heroku Ready) (5 months ago)
+- [RobbiePlata/NN-Notebooks](https://github.com/RobbiePlata/NN-Notebooks) - Study of Neural Network Theory and Architecture (8 months ago)
 
 #### Recently Created
 - [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata)
