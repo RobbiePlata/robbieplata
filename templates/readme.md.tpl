@@ -1,6 +1,6 @@
 #### Recent Pull Requests
-{{range recentContributions 5}}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
+{{range recentContributions 10}}
+- [{{.Repo.Name}}{{.Repo.Description}}]
 {{end}}
 
 #### Recently Created
