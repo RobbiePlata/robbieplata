@@ -1,10 +1,9 @@
 #### Recent Repos
 
-- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (2 days ago)
+- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (1 day ago)
 - [RobbiePlata/discord-audio-bot](https://github.com/RobbiePlata/discord-audio-bot) -  (2 months ago)
 - [RobbiePlata/robbieplata.com](https://github.com/RobbiePlata/robbieplata.com) - Website Re-work with Vite React (6 months ago)
 - [RobbiePlata/react-boiler](https://github.com/RobbiePlata/react-boiler) -  (7 months ago)
-- [RobbiePlata/Discord-Starcraft-Rank-Bot](https://github.com/RobbiePlata/Discord-Starcraft-Rank-Bot) - Starcraft II MMR Bot for Discord (Heroku Ready) (1 year ago)
 
 #### Recently Created
 - [RobbiePlata/discord-audio-bot](https://github.com/RobbiePlata/discord-audio-bot)
