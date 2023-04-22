@@ -1,9 +1,9 @@
 #### Recent Repos
 
 - [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (1 day ago)
-- [NZXTCorp/web-integrations-examples](https://github.com/NZXTCorp/web-integrations-examples) - Example Projects for NZXT CAM Web Integrations (1 day ago)
-- [NZXTCorp/web-integrations-docs](https://github.com/NZXTCorp/web-integrations-docs) - Documentation for NZXT CAM Web Integration Mode  (2 days ago)
-- [NZXTCorp/web-integrations-types](https://github.com/NZXTCorp/web-integrations-types) - Type Definitions for NZXT CAM Web Integrations (2 days ago)
+- [NZXTCorp/web-integrations-examples](https://github.com/NZXTCorp/web-integrations-examples) - Example Projects for NZXT CAM Web Integrations (2 days ago)
+- [NZXTCorp/web-integrations-docs](https://github.com/NZXTCorp/web-integrations-docs) - Documentation for NZXT CAM Web Integration Mode  (3 days ago)
+- [NZXTCorp/web-integrations-types](https://github.com/NZXTCorp/web-integrations-types) - Type Definitions for NZXT CAM Web Integrations (3 days ago)
 - [RobbiePlata/twitch-overlay-controller](https://github.com/RobbiePlata/twitch-overlay-controller) -  (4 months ago)
 
 #### Recently Created
