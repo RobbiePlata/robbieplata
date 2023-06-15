@@ -4,7 +4,7 @@
 - [RobbiePlata/shadertoy-on-kraken](https://github.com/RobbiePlata/shadertoy-on-kraken) -  (1 week ago)
 - [NZXTCorp/web-integrations-docs](https://github.com/NZXTCorp/web-integrations-docs) - Documentation for NZXT CAM Web Integration Mode  (2 weeks ago)
 - [NZXTCorp/web-integrations-examples](https://github.com/NZXTCorp/web-integrations-examples) - Example Projects for NZXT CAM Web Integrations (2 weeks ago)
-- [NZXTCorp/web-integrations-types](https://github.com/NZXTCorp/web-integrations-types) - Type Definitions for NZXT CAM Web Integrations (4 weeks ago)
+- [NZXTCorp/web-integrations-types](https://github.com/NZXTCorp/web-integrations-types) - Type Definitions for NZXT CAM Web Integrations (1 month ago)
 
 #### Recently Created
 - [RobbiePlata/shadertoy-on-kraken](https://github.com/RobbiePlata/shadertoy-on-kraken)
