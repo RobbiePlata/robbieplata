@@ -1,8 +1,8 @@
 #### Recent Repos
 
-- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (1 day ago)
-- [NZXTCorp/web-integrations-docs](https://github.com/NZXTCorp/web-integrations-docs) - Documentation for NZXT CAM Web Integration Mode  (4 weeks ago)
-- [NZXTCorp/web-integrations-examples](https://github.com/NZXTCorp/web-integrations-examples) - Example Projects for NZXT CAM Web Integrations (3 months ago)
+- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (2 days ago)
+- [NZXTCorp/web-integrations-docs](https://github.com/NZXTCorp/web-integrations-docs) - Documentation for NZXT CAM Web Integration Mode  (1 month ago)
+- [NZXTCorp/web-integrations-examples](https://github.com/NZXTCorp/web-integrations-examples) - Example Projects for NZXT CAM Web Integrations (4 months ago)
 - [NZXTCorp/web-integrations-types](https://github.com/NZXTCorp/web-integrations-types) - Type Definitions for NZXT CAM Web Integrations (5 months ago)
 - [RobbiePlata/shadertoy-on-kraken](https://github.com/RobbiePlata/shadertoy-on-kraken) -  (8 months ago)
 
