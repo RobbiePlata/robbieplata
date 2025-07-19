@@ -1,7 +1,7 @@
 #### Recent Repos
 
-- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (2 days ago)
-- [RobbiePlata/microgradz](https://github.com/RobbiePlata/microgradz) - Implementation of Micrograd by Andrej Karpathy utilizing Ziglang (2 days ago)
+- [RobbiePlata/robbieplata](https://github.com/RobbiePlata/robbieplata) -  (1 day ago)
+- [RobbiePlata/microgradz](https://github.com/RobbiePlata/microgradz) - Implementation of Micrograd by Andrej Karpathy utilizing Ziglang (1 day ago)
 - [NZXTCorp/web-integrations-types](https://github.com/NZXTCorp/web-integrations-types) - Type Definitions for NZXT CAM Web Integrations (10 months ago)
 
 #### Recently Created
